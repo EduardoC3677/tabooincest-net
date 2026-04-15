@@ -1,0 +1,198 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on DCMI</title>
+    <link>https://www.dublincore.org/</link>
+    <description>Recent content in Home on DCMI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://www.dublincore.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Public Comment on Proposed DCMI Term: Accessibility Note</title>
+      <link>https://www.dublincore.org/news/2026/01-21_accessibility-note-comment/</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2026/01-21_accessibility-note-comment/</guid>
+      <description>The DCMI Usage Board is proposing a new DCMI Metadata Terms property, dcterms:accessibilityNote, within a draft Scholarly Resources Application Profile. The property would describe features or deficiencies that improve or hinder a resource’s usability and accessibility for diverse users, including people with disabilities, assistive technologies, alternative formats, and inclusive design choices. The proposal builds on related work from W3C, Schema.org, MARC, IFLA, the European Commission, and other standards bodies. To align with current accessibility thinking, the Usage Board is soliciting public feedback. For thirty days, until 22 February 2026, comments are invited via a GitHub issue or to Usage Board.</description>
+    </item>
+    
+    <item>
+      <title>Dublin Core Academy Announces BIBFRAME Part 2 Course</title>
+      <link>https://www.dublincore.org/news/2025/03-18_dca-course-bibframe-2/</link>
+      <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2025/03-18_dca-course-bibframe-2/</guid>
+      <description>Dublin Core Academy will offer BIBFRAME Part 2 on May 8, 2025, taught by Greta Heng from San Diego State University. This hands-on module will cover BIBFRAME implementation infrastructure, linked data workflows, and practical experience with BIBFRAME databases and editors. Registration is open with discounted rates for DCMI and ASIST members.</description>
+    </item>
+    
+    <item>
+      <title>DCMI 2024 Student Forum Awards</title>
+      <link>https://www.dublincore.org/news/2024/11-08_student-forum-awards/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2024/11-08_student-forum-awards/</guid>
+      <description>The DCMI 2024 Student Forum announces its award winners after a thorough review process. First place is awarded to Shengnan Zhao, supervised by Prof. Chunqiu Li, for developing a metadata framework to document and preserve Chinese paper-cutting, enhancing its inheritance as intangible cultural heritage. Second place goes to Wenjing Wu, supervised by Prof. Junzhi Jia, for exploring the integration of intelligent construction metadata to improve efficiency in the construction industry. Held virtually on October 16, 2024, the forum enabled master’s and doctoral students worldwide to share ideas on metadata innovation. All presenters received free conference registration, and the winners will receive prizes of $300 and $200, respectively.</description>
+    </item>
+    
+    <item>
+      <title>Dublin Core Data Institute - October 19, Toronto</title>
+      <link>https://www.dublincore.org/news/2024/06-30_dublin-core-data-institute/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2024/06-30_dublin-core-data-institute/</guid>
+      <description>Data is now the cornerstone of advanced research across various fields, including the humanities and social sciences. These disciplines increasingly rely on data, generating new information as evidence or demonstrating innovative practices. To combat research fraud and promote broader dissemination, publication venues now require data sharing. Recognizing the importance of open data environments, it’s crucial to provide scholars with easy access. Despite growing interest, efforts in data aggregation and dissemination remain inconsistent. The Dublin Core Data Institute (DCDI) aims to unite data scientists and scholars, establishing a federated data service to address key challenges and develop comprehensive open data resources for humanities and social science research.</description>
+    </item>
+    
+    <item>
+      <title>NKOS Workshop on AI and KOS at DCMI-2024 in Toronto</title>
+      <link>https://www.dublincore.org/news/2024/06-29_nkos-workshop/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2024/06-29_nkos-workshop/</guid>
+      <description>An NKOS Workshop will be held at DCMI 2024, the twenty-second International Conference on Dublin Core and Metadata Applications, October 20-23, Toronto, Canada. The NKOS Workshop is particularly interested in how knowledge organization systems (KOS) are being used or can be used to make automation intelligent. For example, one problem with LLMs is “hallucinations” where the application generates a response to a prompt that is “correct” but not true. How can KOS be integrated with LLMs to guide their responses so that they do not produce “hallucinations”? The workshop will feature demonstrations from projects working in this exciting area.</description>
+    </item>
+    
+    <item>
+      <title>Dublin Core announces openWEMI for community review</title>
+      <link>https://www.dublincore.org/news/2023/11-29_openwemi-community-review/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2023/11-29_openwemi-community-review/</guid>
+      <description>Dublin Core introduces openWEMI for community review, a minimally constrained RDF vocabulary based on Work, Expression, Manifestation, and Item (WEMI) concepts. It diverges from IFLA&#39;s library-focused approach, offering broader application in metadata modeling and including the Endeavor class and common properties for diverse metadata resources. The vocabulary, with documentation and a turtle file, seeks feedback via GitHub and a mailing list.</description>
+    </item>
+    
+    <item>
+      <title>B.M. Watson wins the DCMI-2023 Student Forum Award</title>
+      <link>https://www.dublincore.org/news/2023/11-09_student-forum-award/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2023/11-09_student-forum-award/</guid>
+      <description>B. M. Watson from the University of British Columbia School of Information wins the DCMI 2023 Student Forum Award for their proposal, &#39;The Trans Metadata Collective&#39; (TMDC). TMDC intends to enhance the representation and inclusion of trans and gender-diverse communities in cultural heritage institutions.</description>
+    </item>
+    
+    <item>
+      <title>DCMI hosts SKOS-Thes, a namespace based on ISO 25964</title>
+      <link>https://www.dublincore.org/news/2023/10-06_dcmi-hosts-skos-thes/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2023/10-06_dcmi-hosts-skos-thes/</guid>
+      <description>DCMI is providing a new home for SKOS-Thes, a namespace that extends SKOS on the basis of the ISO 25964 data model. The ISO 25964 standard, published in 2011, covers all aspects of developing thesauri and setting up mappings across vocabularies to encourage high quality information retrieval across networked resources.</description>
+    </item>
+    
+    <item>
+      <title>Niklas Lindström appointed as Co-Chair of Usage Board</title>
+      <link>https://www.dublincore.org/news/2023/02-08_niklas-as-cochair/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2023/02-08_niklas-as-cochair/</guid>
+      <description>Niklas Lindström has been appointed as Co-Chair of DCMI Usage Board, which maintains DCMI Metadata Terms and ISO 15836. He is a consultant with a background in web and data technologies, and works as a systems developer at the National Library of Sweden, specializing in linked data structures, semantics, protocols, and interoperability.</description>
+    </item>
+    
+    <item>
+      <title>openWEMI community group hosted by DCMI</title>
+      <link>https://www.dublincore.org/news/2022/07-02_openwemi-community-group/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2022/07-02_openwemi-community-group/</guid>
+      <description>It has been proposed that a very small vocabulary with minimally constrained classes and properties representing the concepts of Work, Expression, Manifestation, and Item would benefit anyone designing metadata for created resources. The Dublin Core Metadata Initiative (DCMI) has opened a community group to develop this core vocabulary.</description>
+    </item>
+    
+    <item>
+      <title>NKOS website moves to dublincore.org</title>
+      <link>https://www.dublincore.org/news/2022/04-27_nkos-website-moves-to-dublincore-org/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2022/04-27_nkos-website-moves-to-dublincore-org/</guid>
+      <description>Website of the Networked Knowledge Organization Systems (NKOS) community moves to dublincore.org.</description>
+    </item>
+    
+    <item>
+      <title>Webinar - Applying FAIR Principles to Ontologies</title>
+      <link>https://www.dublincore.org/news/2022/04-06_webinar-applying-fair-principles-to-ontologies/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2022/04-06_webinar-applying-fair-principles-to-ontologies/</guid>
+      <description>Webinar by Dr. María Poveda-Villalón, scheduled for April 7, 2022, 16:00 UTC. This webinar addresses ontologies for the semantic web and how FAIR principles could be applied to ontologies. This includes metadata best practices and registries to publish the ontologies as Linked Open Vocabularies</description>
+    </item>
+    
+    <item>
+      <title>Learning Resource Type Vocabulary Draft</title>
+      <link>https://www.dublincore.org/news/2022/04-05_learning-resource-type-vocabulary-draft/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2022/04-05_learning-resource-type-vocabulary-draft/</guid>
+      <description>The Dublin Core task group on Learning Resource Metadata (LRMI) wishes to receive comments on a new high-level vocabulary for categorizing Learning Resources by type.</description>
+    </item>
+    
+    <item>
+      <title>Webinar - Natural history data curation: maintaining infrastructures and turning documents into datasets</title>
+      <link>https://www.dublincore.org/news/2022/10-08_webinar-natural-history-data-curation/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2022/10-08_webinar-natural-history-data-curation/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This webinar is scheduled for February 10, 2022, 16:00 UTC (&lt;a href=&#34;https://www.timeanddate.com/worldclock/fixedtime.html?msg=DCMI+Webinar%3A+Natural+history+data+curation&amp;amp;iso=20220210T16&amp;amp;p1=1440&amp;amp;ah=1&#34;&gt;convert this time to your local timezone here&lt;/a&gt;) and is free for DCMI members.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Webinar: Information and Knowledge Organisation in Digital Humanities: Global Perspectives</title>
+      <link>https://www.dublincore.org/news/2021/12-07_webinar_information_and_knowledge_organisation_in_digital_humanities_global_perspectives/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2021/12-07_webinar_information_and_knowledge_organisation_in_digital_humanities_global_perspectives/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This webinar is scheduled for Thursday, 16 December 2021, 16:00 UTC (&lt;a href=&#34;https://www.timeanddate.com/worldclock/fixedtime.html?msg=DCMI+Webinar%3A+Information+and+Knowledge+Organisation+in+Digital+Humanities&amp;amp;iso=20211216T16&amp;amp;p1=1440&amp;amp;ah=1&#34;&gt;convert this time to your local timezone here&lt;/a&gt;) and is free for DCMI members.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Webinar: Introduction to OpenRefine</title>
+      <link>https://www.dublincore.org/news/2021/10-08_webinar_introduction_to_openrefine/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2021/10-08_webinar_introduction_to_openrefine/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This webinar is scheduled for Thursday, 18 November 2021, 18:00 UTC (&lt;a href=&#34;https://www.timeanddate.com/worldclock/fixedtime.html?msg=DCMI+Webinar%3A+Introduction+to+OpenRefine&amp;amp;iso=20211118T18&amp;amp;p1=1440&amp;amp;ah=1&#34;&gt;convert this time to your local timezone here&lt;/a&gt;) and is free for DCMI members.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Registration for DCMI-2021 is now open</title>
+      <link>https://www.dublincore.org/news/2021/09-15-dcmi_virtual_2021_registration/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2021/09-15-dcmi_virtual_2021_registration/</guid>
+      <description>&lt;p&gt;&lt;img
+name=&#34;Registration for DCMI-2021 is now open&#34; title=&#34;Registration for DCMI-2021 is now open&#34; src=&#34;https://www.dublincore.org/conferences/2021/images/twitter/twitter_card_registration.jpg&#34; style=&#34;float: left; margin-right: 15px; max-width: 300px&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;Registration for DCMI-2021 is now open. Online registration is available at &lt;a href=&#34;https://www.dublincore.org/conferences/2021/registration/&#34;&gt;https://www.dublincore.org/conferences/2021/registration/&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Webinar: Modeling Intangible Entities in the Cultural Domains for Digital Archiving</title>
+      <link>https://www.dublincore.org/news/2021/05_06_webinar_modeling_intangible_entities_in_the_cultural_domains_for_digital_archiving/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2021/05_06_webinar_modeling_intangible_entities_in_the_cultural_domains_for_digital_archiving/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This webinar is scheduled for Wednesday, May 19th, 2021, 21:00 UTC (&lt;a href=&#34;https://www.timeanddate.com/worldclock/fixedtime.html?msg=DCMI+Webinar%3A+Introduction+to+DDI&amp;amp;iso=20210519T21&#34;&gt;convert this time to your local timezone here&lt;/a&gt;) and is free for DCMI members.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Announcing DCMI Virtual 2021</title>
+      <link>https://www.dublincore.org/news/2021/04-12-announcing_dcmi_virtual_2021/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2021/04-12-announcing_dcmi_virtual_2021/</guid>
+      <description>&lt;p&gt;&lt;img
+name=&#34;Registration for DCMI-2021 is now open&#34; title=&#34;Registration for DCMI-2021 is now open&#34; src=&#34;https://www.dublincore.org/conferences/2021/banner.jpg&#34; style=&#34;float: left; margin-right: 15px; max-width: 300px&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;The 2021 DCMI Virtual will offer a programme of virtual, invited and moderated sessions including keynotes, best practice sessions, expert panel discussions, invited talks, tutorials, and student and member forums, and will run from October 4th, 2021 to October 15th, 2021.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Webinar - Introduction to the DDI Metadata Standard</title>
+      <link>https://www.dublincore.org/news/2021/02-18-webinar-introduction-to-ddi/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.dublincore.org/news/2021/02-18-webinar-introduction-to-ddi/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This webinar is scheduled for Wednesday, April 21st, 2021, 14:00 UTC (&lt;a href=&#34;https://www.timeanddate.com/worldclock/fixedtime.html?msg=DCMI+Webinar%3A+Introduction+to+DDI&amp;amp;iso=20210421T14&#34;&gt;convert this time to your local timezone here&lt;/a&gt;) and is free for DCMI members.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
