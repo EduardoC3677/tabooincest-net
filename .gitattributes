@@ -17,3 +17,4 @@ wp-content/uploads/2026/04/Video.Guru_20260409_230752020.mp4 filter=lfs diff=lfs
 wp-content/uploads/2026/02/Video.Guru_20260226_135501959.mp4 filter=lfs diff=lfs merge=lfs -text
 3h4gz6.mp4 filter=lfs diff=lfs merge=lfs -text
 lqyq34.mp4 filter=lfs diff=lfs merge=lfs -text
+wp-content/uploads/2026/04/Video.Guru_20260403_104659788.mp4 filter=lfs diff=lfs merge=lfs -text
