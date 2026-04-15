@@ -146,7 +146,7 @@
 			</div>
 		</div>
 
-	<div class="wps-player"><div class="wps-player-block"><video id="video" class="" controls preload="auto" width="100%" height="100%" poster="https://tabooincest.net/wp-content/uploads/2026/02/Screenshot_2026-02-26-11-10-02-55_965bbf4d18d205f782c6b8409c5773a42-640x360.jpg"><source src="https://qu.ax/LYY7j.mp4" type="video/mp4"></source></video></div></div>		<link rel="stylesheet" href="https://tabooincest.net/wp-content/plugins/clean-tube-player/public/assets/css/ctpl-player.css?ver=2.8.0.1771958406">
+	<div class="wps-player"><div class="wps-player-block"><video id="video" class="" controls preload="auto" width="100%" height="100%" poster="https://tabooincest.net/wp-content/uploads/2026/01/Screenshot_2026-01-06-08-42-18-63_965bbf4d18d205f782c6b8409c5773a42-640x360.jpg"><source src="https://qu.ax/ivKxc.mp4" type="video/mp4"></source></video></div></div>		<link rel="stylesheet" href="https://tabooincest.net/wp-content/plugins/clean-tube-player/public/assets/css/ctpl-player.css?ver=2.8.0.1771958406">
 		<script src="https://tabooincest.net/wp-content/plugins/clean-tube-player/public/vendors/jquery-3.4.1.slim.min.js?ver=3.4.1"></script>
 		<script src="https://tabooincest.net/wp-content/plugins/clean-tube-player/public/vendors/fluidplayer-3.55.0.min.js?ver=3.55.0"></script>
 
