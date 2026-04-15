@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang='en' dir='ltr'>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>VK | Login</title>
+    <link type="text/css"  rel="stylesheet" href="https://vk.com/css/al/common.c8450b58.css" /><link type="text/css"  rel="stylesheet" href="https://vk.com/css/al/base.ce5ac853.css" /><link type="text/css"  rel="stylesheet" href="https://vk.com/css/al/vkui.330f0678.css" /><link type="text/css"  rel="stylesheet" href="https://vk.com/css/al/fonts_utf.7fa94ada.css" /><link type="text/css"  rel="stylesheet" href="https://vk.com/css/al/fonts_cnt_async.4881739c.css" />
+    <link type="text/css"  rel="stylesheet" href="https://vk.com/css/api/oauth_popup.0a7f8c1a.css" />
+    <script type="text/javascript" language="javascript" src="https://vk.com/js/api/common_light.js?2"></script>
+    <script type="text/javascript" language="javascript">// <![CDATA[
+      function allow(button) {
+        if (isButtonLocked(button)) return false;
+        lockButton(button);
+
+        var addr = '';
+        if (isChecked('allow_notifications')) {
+          addr = '&notify=1';
+        }
+        if (isChecked('denied_email')) {
+          addr += '&email_denied=1';
+        }
+        if (isChecked('denied_phone')) {
+          addr += '&phone_denied=1';
+        }
+        location.href = "https://login.vk.com/?act=grant_access&client_id=-1&settings=0&scope=&response_type=code&group_ids=&token_type=0&v=&display=widget&ip_h=8617d1f64dd0307380&hash=1776265478_ac37ae93e18fc6158d&https=1&state=&redirect_uri=https%3A%2F%2Fvk.com%2Fshare.php%3Furl%3Dhttps%3A%2F%2Ftabooincest.net%2Fpantyhose-perversions-2025-full-dvd-free%2F"+addr;
+        return false;
+      }
+
+      function cancel() {
+        location.href = "https://login.vk.com/?act=grant_access&client_id=-1&settings=0&scope=&response_type=code&group_ids=&token_type=0&v=&display=widget&ip_h=8617d1f64dd0307380&hash=1776265478_ac37ae93e18fc6158d&https=1&state=&redirect_uri=https%3A%2F%2Fvk.com%2Fshare.php%3Furl%3Dhttps%3A%2F%2Ftabooincest.net%2Fpantyhose-perversions-2025-full-dvd-free%2F&cancel=1";
+        return false;
+      }
+
+      function login(button) {
+        if (isButtonLocked(button)) return false;
+        lockButton(button);
+        document.querySelector('#login_submit').submit();
+      }
+
+      function doResize(onResize) {
+        onResize && setTimeout(function() {
+          doResize()
+        }, 100);
+
+        if (!hasClass(document.body, 'oauth_centered') && !onResize) {
+          if (window.outerHeight !== void 0) {
+            var panelH = (window.outerHeight - window.innerHeight) | 0,
+              panelW = (window.outerWidth - window.innerWidth) | 0;
+          } else {
+            var panelH = 50,
+              panelW = 0;
+          }
+          var contentH = Math.max(document.querySelector('#oauth_wrap_content').offsetHeight, 430),
+            contentW = 655;
+          window.resizeTo(contentW + panelW, contentH + panelH);
+          window.moveTo(
+            (screen.width - contentW) / 2 + (screen.availLeft | 0),
+            ((screen.height - contentH) / 2) + (screen.availTop | 0)
+          );
+        }
+      }
+
+      function toggleEmailPrivacy() {
+        checkbox('denied_email');
+        if (!isChecked('denied_email')) {
+          hide('denied_email');
+          show('allowed_email');
+        } else {
+          hide('allowed_email');
+          show('denied_email');
+        }
+      }
+
+      function togglePhonePrivacy() {
+        checkbox('denied_phone');
+        if (!isChecked('denied_phone')) {
+          hide('denied_phone');
+          show('allowed_phone');
+        } else {
+          hide('allowed_phone');
+          show('denied_phone');
+        }
+      }
+
+      if (parent && parent != window) {
+        location.href = "https://oauth.vk.com/blank.html";
+      }
+
+      
+    // ]]></script>
+  </head>
+
+  <body onload="doResize();" class="VK1 oauth_full">
+    <script>
+      if (window.devicePixelRatio >= 2) document.body.className += ' is_2x';
+    </script>
+    <div class="oauth_wrap">
+      <div class="oauth_wrap_inner">
+        <div class="oauth_wrap_content" id="oauth_wrap_content">
+          <div class="oauth_head">
+  <a class="oauth_logo fl_l" href="https://vk.com" target="_blank"></a>
+  <div id="oauth_head_info" class="oauth_head_info fl_r">
+  <a class="oauth_reg_link" href="https://vk.com/join?reg=1" target="_blank">Sign up</a>
+</div>
+</div>
+
+<div class="oauth_content box_body clear_fix">
+  <div class="box_msg_gray box_msg_padded">Sign in to <b>VK</b> to continue</div>
+
+  <form method="POST" id="login_submit" action="https://login.vk.com/?act=login&soft=1">
+    <div class="oauth_form">
+
+      
+
+      <div>
+        <div class="oauth_form_login_content">
+          <input type="hidden" name="ip_h" value="8617d1f64dd0307380" />
+          <input type="hidden" name="lg_domain_h" value="de619346e371b469a7" />
+          <input type="hidden" name="_origin" value="https://oauth.vk.com" />
+          <input type="hidden" name="to" value="aHR0cHM6Ly9vYXV0aC52ay5jb20vYXV0aG9yaXplP2NsaWVudF9pZD0tMSZyZWRpcmVjdF91cmk9aHR0cHMlM0ElMkYlMkZ2ay5jb20lMkZzaGFyZS5waHAlM0Z1cmwlM0RodHRwcyUzQSUyRiUyRnRhYm9vaW5jZXN0Lm5ldCUyRnBhbnR5aG9zZS1wZXJ2ZXJzaW9ucy0yMDI1LWZ1bGwtZHZkLWZyZWUlMkYmcmVzcG9uc2VfdHlwZT0mc2NvcGU9MCZ2PSZzdGF0ZT0mZGlzcGxheT13aWRnZXQ-" />
+          <input type="hidden" id="expire" name="expire" value="0" />
+
+          <div class="oauth_form_header">Phone or email</div>
+          <input type="text" class="oauth_form_input dark" name="email" value="">
+          <div class="oauth_form_header">Password</div>
+          <input type="password" class="oauth_form_input dark" name="pass" />
+        </div>
+
+        <input type="hidden" name="captcha_sid" value="2b0574b6-08a0-42a6-8818-6b4c44a01129">
+
+<div class="oauth_form_not_robot_captcha_container"></div>
+<input class="oauth_form_not_robot_captcha_token_input" type="hidden" name="success_token" />
+
+<script type="text/javascript" language="javascript" src="https://static.vk.com/captchaSDK/loader/1/umd/index.js"></script>
+
+<script>
+  (function() {
+    const initNotRobotCaptcha = async () => {
+      const { CaptchaWidget } = await window.vkidCaptcha;
+      const captchaWidget = new CaptchaWidget();
+      const captchaContainer = document.querySelector('.oauth_form_not_robot_captcha_container');
+
+      try {
+        const successToken = await captchaWidget.show({
+          container: captchaContainer,
+          iframeSrc: 'https://id.vk.com/not_robot_captcha?domain=vk.com&session_token=eyJhbGciOiJBMjU2R0NNS1ciLCJlbmMiOiJBMjU2R0NNIiwiaXYiOiJnZHkxQ1NlbW93eGpIVC1aIiwia2lkIjoiZDllZjU2ODYtMWUzOS00ZWI1LTk2OWEtNGI0ODE3ZWVlMjYxIiwidGFnIjoiY3pIeDd0ZzdsbXJUQTNBRldUbC0yQSIsInppcCI6IkRFRiJ9.UVcfO-JbEm79HQjPc1BC9iwwzpV9LVddQRtTdAFTO78.b7QmhzSP1eVtX06E.itUv7_XtZUAoCpRKsSTrBDcQtjXlaACUR310I-TQon4136s29oHtOoAWg1un8ChAOhbSeTsxd1ksf_JVYZ5NpSpGsHys8q_24MLWbjMo9x4DIo2HWCm5wPURvg0__OTQWclHK6bK9zUgzUtEsSkY7OKxeqkbiNK4BHhalE_XVYeEACW4iFlYMesCE6nLp9T24ibXccs_fKdmU9idM6Ip3AQYswmRMGYIXFW9K1BSwKlIQNA4tsVcPK7Wx9f1KWHU-72zRvo2AeUfPMr7I0VwJ-4P-d3lOqUAo4yf0nUrGO-818SkiHtp0WtVFNEBT57m5seJosJxryWFNbhnIj5cN30SPVf_bTMx1_i13JhqMqoRfAjDoE8E1M8JdREl4ziUMnN9mZ7lTx1hh92D54zw4BzyhYdF-_NjcN0KxA6Zk8_0eg73r8GUqjZaN2INIhhQRuhv6siaeh1HU3fUGTyCig-APRnmURgbUkMeFMKi0VPpTCzMBuXWanlBb_9e5_6qelSyj7IlFl9-R-qDhJauB5EfZkK0oEKHAcJhFERPD5d0C5IuLUsB-Kww9MorkF1uvM2-6lFOfMSO44YGXQjWrSa5qJfGC--nPLq-lI84g-2Wknp4jIwHL1xn4z1zJLxbT0ss0ZgpytU63elkNza25Pq52W9RtoJB2nTBjtvniIcKyKPeaed_vjRpyKzW8WUeWr9riI9-c7M6dC9QK1Z1Pgj9ghy84Aa3eMgYqneU_T3gfmDTdL3XsyMFLNQpdbYjQU90AnQi320mcvBhRJBx0bh5zz__xVFUyaGzDEhTFRWvkeNszVohu04cE3Kv4569HRRDWyaRpL8yLgHWFva0OysyqVidBSLoldncj5C4yuII4Sy1IVHUP29c9AbIFiM2vmr6SgdCQI5SP2Kh_rLxBkcg6crnx1ez_2r4L1ddXlsuK4xzRedBNd_I1cArOP_PsTWlMAOTVxTFd8Po-7f-p1D4l6tPic9CpiPHh_HGhiaMqSH3_ko96LOz-885uE2aQaavkr5VWIyQdw-7fcUtNicUipdguyiyVdvHd3OM7IM6t3PimQTn1ZLh2MyX0qg1lKoNRHzkTXOjIVck0CFJyc5_LhoWY-mKmp-1mPiS6UucVaR12jAPWL9XhvyKGJSn-mupbvHi_4PmlvetcULJpPgxnKJaU4J9HFFW_4FZg83YRp6Bm8Xau0_O_-tFdxROXZJZctGYEwuexency7LPhGqt6LFXIBrSryto4oe41bxD2YZ_-s5E5BJVutjowFMQkcgkeFTFHA.PbMn96hBOKRLl-vIddMW7g&variant=popup&blank=1',
+          captchaType: 'type_1',
+          view: 'block',
+        });
+        const tokenInputElement = document.querySelector('.oauth_form_not_robot_captcha_token_input');
+        tokenInputElement.value = successToken;
+      } catch (error) {
+        if (error !== 'close') {
+          console.error(error);
+        }
+      }
+    };
+
+    initNotRobotCaptcha();
+  })();
+</script>
+
+        <div class="oauth_form_login_content">
+          <button class="flat_button oauth_button button_wide" id="install_allow" type="submit" onclick="return login(this);">Sign in</button>
+          <a class="oauth_forgot" href="https://vk.com/restore" target="_blank">Forgot your password?</a>
+          <input type="submit" name="submit_input" class="unshown">
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
