@@ -8,3 +8,7 @@ wp-content/uploads/2026/03/Video.Guru_20260325_110927256.mp4 filter=lfs diff=lfs
 wp-content/uploads/2026/03/Video.Guru_20260319_092037655.mp4 filter=lfs diff=lfs merge=lfs -text
 wp-content/uploads/2026/03/Video.Guru_20260301_072540840.mp4 filter=lfs diff=lfs merge=lfs -text
 wp-content/uploads/2026/03/Video.Guru_20260316_112452949.mp4 filter=lfs diff=lfs merge=lfs -text
+wp-content/uploads/2026/04/Video.Guru_20260412_062516234.mp4 filter=lfs diff=lfs merge=lfs -text
+wp-content/uploads/2026/04/Video.Guru_20260409_130313091.mp4 filter=lfs diff=lfs merge=lfs -text
+wp-content/uploads/2026/04/Video.Guru_20260409_164216914.mp4 filter=lfs diff=lfs merge=lfs -text
+wp-content/uploads/2026/04/Video.Guru_20260409_080529923.mp4 filter=lfs diff=lfs merge=lfs -text
